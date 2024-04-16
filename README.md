@@ -1,10 +1,11 @@
 <h1 align="center">Hi there, I'm Krinitsyn Vadim
-<img src="https://tenor.com/ru/view/pantsu-konosuba-gif-4982240563953839609" height="32"/></h1>
+<div class="tenor-gif-embed" data-postid="4982240563953839609" data-share-method="host" data-aspect-ratio="1.85821" data-width="100%"><a href="https://tenor.com/view/pantsu-konosuba-gif-4982240563953839609"height="32"></div></h1>
 <h3 align="center">Python backend developer</h3>
 
 - 🌱 I’m currently learning **python, web**
 
 - 📫 How to reach me **mr.krinik-vad@mail.ru**
+<div class="tenor-gif-embed" data-postid="4982240563953839609" data-share-method="host" data-aspect-ratio="1.85821" data-width="100%"><a href="https://tenor.com/view/pantsu-konosuba-gif-4982240563953839609">Pantsu Konosuba Sticker</a>from <a href="https://tenor.com/search/pantsu-stickers">Pantsu Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 - 🌍 I speak Russian (native), English (B2)
 
