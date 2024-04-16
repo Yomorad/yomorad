@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Krinitsyn Vadim
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://tenor.com/ru/view/pantsu-konosuba-gif-4982240563953839609" height="32"/></h1>
 <h3 align="center">Python backend developer</h3>
 
 - 🌱 I’m currently learning **python, web**
