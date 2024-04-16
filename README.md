@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Krinitsyn Vadim
-<img src="https://github.com/Yomorad/yomorad/blob/main/icons/pantsu-konosuba.gif" height="150"/></h1>
+<img src="https://github.com/Yomorad/yomorad/blob/main/icons/pantsu-konosuba.gif" height="90"/></h1>
 <h3 align="center">Python backend developer</h3>
 
 - 🌱 I’m currently learning **python, web**
