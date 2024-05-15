@@ -2,11 +2,9 @@
 <img src="https://github.com/Yomorad/yomorad/blob/main/icons/pantsu-konosuba.gif" height="90"/></h1>
 <h3 align="center">Python backend developer</h3>
 
-- 🌱 I’m currently learning **python, web**
-
 - 📫 How to reach me **mr.krinik-vad@mail.ru**, https://t.me/krivad
 
-- 🌍 I speak Russian (native), English (B2)
+- 🌍 I speak Russian (native), English (B1)
 
 ### Connect with me:
 <p align="left">
@@ -26,9 +24,8 @@
 <img src="https://github.com/Yomorad/yomorad/blob/main/icons/postgre_33r3vujbdeg1.svg" alt="git" width="40" height="40"/> </a> 
 <img src="https://github.com/Yomorad/yomorad/blob/main/icons/docker_5mzckhbiebmc.svg" alt="git" width="40" height="40"/> </a> 
 <img src="https://github.com/Yomorad/yomorad/blob/main/icons/django_z0w0ic1qr3nq.svg" alt="git" width="40" height="40"/> </a> 
-
-<img src="https://github.com/Yomorad/yomorad/blob/main/icons/django_z0w0ic1qr3nq.svg" alt="git" width="40" height="40"/> </a> 
-<img src="https://github.com/Yomorad/yomorad/blob/main/icons/django_z0w0ic1qr3nq.svg" alt="git" width="40" height="40"/> </a> 
-<img src="https://github.com/Yomorad/yomorad/blob/main/icons/django_z0w0ic1qr3nq.svg" alt="git" width="40" height="40"/> </a> 
-<img src="https://github.com/Yomorad/yomorad/blob/main/icons/django_z0w0ic1qr3nq.svg" alt="git" width="40" height="40"/> </a> 
+<img src="https://github.com/Yomorad/yomorad/blob/main/icons/bash-svgrepo-com.svg" alt="git" width="40" height="40"/> </a> 
+<img src="https://github.com/Yomorad/yomorad/blob/main/icons/celery-svgrepo-com.svg" alt="git" width="40" height="40"/> </a> 
+<img src="https://github.com/Yomorad/yomorad/blob/main/icons/rabbitmq-icon-svgrepo-com.svg" alt="git" width="40" height="40"/> </a> 
+<img src="https://github.com/Yomorad/yomorad/blob/main/icons/redis-svgrepo-com.svg" alt="git" width="40" height="40"/> </a> 
 </p>
